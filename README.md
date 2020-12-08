@@ -7,19 +7,15 @@
   <br />
 </div>
 
-## Table of contents
+## Índice
 
-- [About](#about)
-- [Installation](#installation)
-  - [Audio engines](#audio-engines)
-  - [Optional packages](#optional-packages)
-- [Example Usage](#example-usage)
-- [Links](#links)
-  - [Extensions](#extensions)
-- [Contributing](#contributing)
-- [Help](#help)
+- [Sobre](#Sobre)
+- [Instalação](#Instalação)
+- [Utilizando uma fake API](#Utilizando-uma-fake-API)
+- [Interface da aplicação](#Interface-da-aplicação)
+- [Contato](#Contato)
 
-## About
+## Sobre
 
 Aplicativo desenvolvido em [React Native](https://reactnative.dev/) com fake API [json-server](https://www.npmjs.com/package/json-server) para testes das interfaces.
 
@@ -28,7 +24,7 @@ Aplicativo desenvolvido em [React Native](https://reactnative.dev/) com fake API
 - Performant
 - 100% coverage of the Discord API
 
-## Installation
+## Instalação
 
 **Node.js 12.20.0 or newer is required.**
 
